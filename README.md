@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iutksharma&label=Profile%20views&color=0e75b6&style=flat" alt="iutksharma" /> </p>
 
-- 🔭 I’m currently working on **Magic Movie**
+- 🔭 I’m currently working on **Portfolios**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Native CLI**
 
 - 📫 How to reach me **iutksharma@gmail.com**
 
